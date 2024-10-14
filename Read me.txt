@@ -1,0 +1,24 @@
+ Unveiling the Power BI Dashboard for Amazon Prime Movies and TV Shows! 🎉
+Thrilled to share the latest project I've been working on – a dynamic and insightful dashboard that brings the world of Amazon Prime Movies and TV shows to life! 📺✨
+
+ Let me give you a sneak peek into my 🔍 Key Features:
+
+Content Library Size: The platform hosts an extensive collection of 9655 titles. 
+
+ Rating Distribution : There are 25 different ratings used to categorize content.
+
+Genre Diversity: The platform offers a wide selection of 519 genres. 
+
+Director Involvement :  5771 unique directors have contributed to the content.
+
+Time Frame : The available content spans from 1920 to 2021.
+
+>>> This dashboard is created using Power BI, which provides powerful features. It not only presents data, but does so in a way that is visually appealing and easy to use. Every step of the process, from extracting data to displaying it, is designed to be efficient and simple to understand. >>>
+
+👥 Who Can Benefit:
+Content Makers: Design your content strategy to match what people want to see. 
+Amazon Prime Members: Find new shows, movies, and trends in the huge collection.
+People Who Love Data: See how data is used behind the scenes and how powerful data visualization can be.
+
+🚀 Why This Matters:
+In the era of online streaming, understanding how viewers interact with content is vital. This dashboard provides valuable insights that help decision-makers create a more captivating and customized streaming experience tailored to the preferences of Amazon Prime subscribers.
